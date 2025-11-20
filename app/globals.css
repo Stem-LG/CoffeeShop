@@ -1,26 +1,52 @@
 @import "tailwindcss";
 
+@theme {
+  --font-sans: var(--font-outfit);
+  --font-serif: var(--font-playfair);
+
+  --color-coffee-50: #fdf8f6;
+  --color-coffee-100: #f2e8e5;
+  --color-coffee-200: #eaddd7;
+  --color-coffee-300: #e0cec7;
+  --color-coffee-400: #d2bab0;
+  --color-coffee-500: #a18072;
+  --color-coffee-600: #846358;
+  --color-coffee-700: #43302b;
+  --color-coffee-800: #2a1e1b;
+  --color-coffee-900: #1a110f;
+
+  --color-gold-500: #d4af37;
+  --color-gold-600: #aa8c2c;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --background: #fdf8f6; /* coffee-50 */
+  --foreground: #2a1e1b; /* coffee-800 */
+  --primary: #43302b; /* coffee-700 */
+  --primary-foreground: #fdf8f6;
+  --secondary: #eaddd7; /* coffee-200 */
+  --secondary-foreground: #2a1e1b;
+  --accent: #d4af37; /* gold-500 */
+  --accent-foreground: #ffffff;
+  --muted: #f2e8e5; /* coffee-100 */
+  --muted-foreground: #846358; /* coffee-600 */
+  --border: #e0cec7; /* coffee-300 */
+  --input: #e0cec7;
+  --ring: #43302b;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
 }

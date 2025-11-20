@@ -1,0 +1,91 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "menu": "Menu",
+        "reservations": "Reservations",
+        "trackOrder": "Track Order",
+        "contact": "Contact",
+        "orderNow": "Order Now"
+    },
+    "Home": {
+        "heroTitle": "Experience the Perfect Brew",
+        "heroDescription": "Artisanal coffee, freshly baked pastries, and a warm atmosphere waiting for you. Order online for delivery or reserve your table today.",
+        "orderDelivery": "Order Delivery",
+        "bookTable": "Book a Table",
+        "openDaily": "Open Daily",
+        "openHours": "7:00 AM - 9:00 PM\nWeekends until 10:00 PM",
+        "fastDelivery": "Fast Delivery",
+        "deliveryDesc": "Fresh coffee and food delivered\nright to your doorstep.",
+        "primeLocation": "Prime Location",
+        "locationDesc": "123 Coffee Lane\nHeart of Brew City",
+        "ourFavorites": "Our Favorites",
+        "favoritesDesc": "Hand-picked selections from our menu that our customers love.",
+        "viewFullMenu": "View Full Menu",
+        "addToOrder": "Add to Order"
+    },
+    "Menu": {
+        "title": "Our Menu",
+        "description": "Discover our selection of premium coffees, fresh pastries, and delicious breakfast items.",
+        "addToCart": "Add to Cart",
+        "unavailable": "Menu items are currently unavailable."
+    },
+    "Cart": {
+        "title": "Your Cart",
+        "empty": "Your Cart is Empty",
+        "emptyDesc": "Looks like you haven't added anything yet.",
+        "browseMenu": "Browse Menu",
+        "deliveryDetails": "Delivery Details",
+        "name": "Name",
+        "email": "Email (Optional)",
+        "phone": "Phone",
+        "address": "Delivery Address",
+        "placeOrder": "Place Order",
+        "placingOrder": "Placing Order...",
+        "successTitle": "Order Placed Successfully!",
+        "trackingNumber": "Your tracking number is:",
+        "trackOrder": "Track Order",
+        "backToHome": "Back to Home"
+    },
+    "Reservations": {
+        "title": "Reserve a Table",
+        "description": "Book your spot for a perfect dining experience.",
+        "detailsTitle": "Reservation Details",
+        "detailsDesc": "Please fill in your details to secure your reservation.",
+        "date": "Date",
+        "time": "Time",
+        "guests": "Number of Guests",
+        "confirm": "Confirm Reservation",
+        "booking": "Booking...",
+        "successTitle": "Table Reserved!",
+        "reservationNumber": "Your reservation number is:",
+        "checkStatus": "Check Status"
+    },
+    "Track": {
+        "title": "Track Status",
+        "description": "Enter your Order Number (ORD-...) or Reservation Number (RES-...) to check its status.",
+        "placeholder": "e.g. ORD-123456",
+        "button": "Track",
+        "orderDetails": "Order Details",
+        "reservationDetails": "Reservation Details",
+        "customer": "Customer",
+        "total": "Total",
+        "items": "Items"
+    },
+    "Contact": {
+        "title": "Contact Us",
+        "description": "We'd love to hear from you. Visit us, call us, or send us a message.",
+        "visitUs": "Visit Us",
+        "openingHours": "Opening Hours",
+        "sendMessage": "Send a Message",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Message"
+    },
+    "Footer": {
+        "description": "Premium coffee, artisanal pastries, and a cozy atmosphere.",
+        "links": "Links",
+        "contact": "Contact",
+        "followUs": "Follow Us",
+        "rights": "All rights reserved."
+    }
+}

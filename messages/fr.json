@@ -1,0 +1,91 @@
+{
+    "Navbar": {
+        "home": "Accueil",
+        "menu": "Menu",
+        "reservations": "Réservations",
+        "trackOrder": "Suivi de Commande",
+        "contact": "Contact",
+        "orderNow": "Commander"
+    },
+    "Home": {
+        "heroTitle": "Découvrez le Café Parfait",
+        "heroDescription": "Café artisanal, pâtisseries fraîchement sorties du four et une atmosphère chaleureuse vous attendent. Commandez en ligne ou réservez votre table dès aujourd'hui.",
+        "orderDelivery": "Commander en Livraison",
+        "bookTable": "Réserver une Table",
+        "openDaily": "Ouvert Tous les Jours",
+        "openHours": "7h00 - 21h00\nWeek-ends jusqu'à 22h00",
+        "fastDelivery": "Livraison Rapide",
+        "deliveryDesc": "Café frais et nourriture livrés\ndirectement à votre porte.",
+        "primeLocation": "Emplacement Idéal",
+        "locationDesc": "123 Coffee Lane\nCœur de Brew City",
+        "ourFavorites": "Nos Favoris",
+        "favoritesDesc": "Sélections triées sur le volet de notre menu que nos clients adorent.",
+        "viewFullMenu": "Voir le Menu Complet",
+        "addToOrder": "Ajouter à la Commande"
+    },
+    "Menu": {
+        "title": "Notre Menu",
+        "description": "Découvrez notre sélection de cafés premium, pâtisseries fraîches et délicieux petits-déjeuners.",
+        "addToCart": "Ajouter au Panier",
+        "unavailable": "Les articles du menu sont actuellement indisponibles."
+    },
+    "Cart": {
+        "title": "Votre Panier",
+        "empty": "Votre Panier est Vide",
+        "emptyDesc": "Il semble que vous n'ayez rien ajouté pour le moment.",
+        "browseMenu": "Parcourir le Menu",
+        "deliveryDetails": "Détails de Livraison",
+        "name": "Nom",
+        "email": "Email (Optionnel)",
+        "phone": "Téléphone",
+        "address": "Adresse de Livraison",
+        "placeOrder": "Passer la Commande",
+        "placingOrder": "Commande en cours...",
+        "successTitle": "Commande Passée avec Succès !",
+        "trackingNumber": "Votre numéro de suivi est :",
+        "trackOrder": "Suivre la Commande",
+        "backToHome": "Retour à l'Accueil"
+    },
+    "Reservations": {
+        "title": "Réserver une Table",
+        "description": "Réservez votre place pour une expérience culinaire parfaite.",
+        "detailsTitle": "Détails de la Réservation",
+        "detailsDesc": "Veuillez remplir vos coordonnées pour garantir votre réservation.",
+        "date": "Date",
+        "time": "Heure",
+        "guests": "Nombre d'Invités",
+        "confirm": "Confirmer la Réservation",
+        "booking": "Réservation en cours...",
+        "successTitle": "Table Réservée !",
+        "reservationNumber": "Votre numéro de réservation est :",
+        "checkStatus": "Vérifier le Statut"
+    },
+    "Track": {
+        "title": "Suivi de Statut",
+        "description": "Entrez votre Numéro de Commande (ORD-...) ou Numéro de Réservation (RES-...) pour vérifier son statut.",
+        "placeholder": "ex. ORD-123456",
+        "button": "Suivre",
+        "orderDetails": "Détails de la Commande",
+        "reservationDetails": "Détails de la Réservation",
+        "customer": "Client",
+        "total": "Total",
+        "items": "Articles"
+    },
+    "Contact": {
+        "title": "Contactez-nous",
+        "description": "Nous aimerions avoir de vos nouvelles. Rendez-nous visite, appelez-nous ou envoyez-nous un message.",
+        "visitUs": "Rendez-nous Visite",
+        "openingHours": "Heures d'Ouverture",
+        "sendMessage": "Envoyer un Message",
+        "subject": "Sujet",
+        "message": "Message",
+        "send": "Envoyer le Message"
+    },
+    "Footer": {
+        "description": "Café premium, pâtisseries artisanales et une atmosphère chaleureuse.",
+        "links": "Liens",
+        "contact": "Contact",
+        "followUs": "Suivez-nous",
+        "rights": "Tous droits réservés."
+    }
+}
